@@ -7,6 +7,7 @@
 *.csv
 *.dtd
 *.xml
+*.mat
 
 # Compiled source #
 ###################
