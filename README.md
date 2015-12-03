@@ -24,7 +24,8 @@ Similar to other graphic models, optimizing this joint likelihood function is in
 In this event, we implemented TFA model along with Black Box variational inference [2] using Python and applied the model on fMRI data set by [3]. This data set contains data from 9 participants with 360 images when they were showed all 60 drawings with 6 epochs, where all 60 drawings were randomly ordered. Due to the time limit for this event, we only explored the first participant's collection data.
 
 
-Even though we only have very limited time, we were able to implement all the core parts of TFA model proposed in PAPER CITATION HERE. however we only have time to run very limited number of iterations, as a result, the model may not be fully converged.  The trend of ELBO is shown as below.
+Even though we only have very limited time, we were able to implement
+all the core parts of TFA model proposed in paper [1]. however we only have time to run very limited number of iterations, as a result, the model may not be fully converged.  The trend of ELBO is shown as below.
 
 ![alt text](https://github.com/ninginthecloud/Brainhack2015/blob/master/results/ELBO_iteration.png?raw=true "ELBO value vs iteration times")
 
