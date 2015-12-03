@@ -38,7 +38,7 @@ After this experiment, we found that the intialization of parameters is extremel
 
 TFA has the advantage of giving a simple spatial interpretation of brain image, and it also can offer researchers useful information for further brain functional analysis. Furthermore,  varational inference method is powerful and it shows the potential to scale the model to real big dataset. Our implementation covers all the core parts of TFA model as well as variational inference algorithm. It is all written in python and requires very minmum third-party package dependency. After some code optimization, it runs reasonably fast. Due to the natural of TFA model and our implementation, it can also be easily parallelized and deployed in any cloud environment.
 
-Reference:
-[1] Manning, Jeremy R., et al. "Topographic factor analysis: a Bayesian model for inferring brain networks from neural data." PloS one 9.5 (2014).
-[2] Ranganath, Rajesh, Sean Gerrish, and David M. Blei. "Black box variational inference." arXiv preprint arXiv:1401.0118 (2013).
+##Reference:
+[1] Manning, Jeremy R., et al. "Topographic factor analysis: a Bayesian model for inferring brain networks from neural data." PloS one 9.5 (2014).    
+[2] Ranganath, Rajesh, Sean Gerrish, and David M. Blei. "Black box variational inference." arXiv preprint arXiv:1401.0118 (2013).    
 [3] Mitchell, Tom M., et al. "Predicting human brain activity associated with the meanings of nouns." science 320.5880 (2008): 1191-1195.
