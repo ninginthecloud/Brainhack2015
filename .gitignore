@@ -17,7 +17,7 @@
 *.exe
 *.o
 *.so
-*.png
+
 
 # Packages #
 ############
